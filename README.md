@@ -7,3 +7,7 @@
 ## Description 
 
 A midi keyboard inspired by my favorite vocaloid voicebanks. : Miku, Adachi rei, and Kaai yuki. Has 3 buttons 6 touch pads, a rotary encoder and a slider.
+
+### What does it do?
+
+Its supposed to hook up the keyboard to a computer and use a software (for example: garage band) to make music with it.
