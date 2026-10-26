@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"RV1";"Potentiometer_Bourns_PTA1543_Single_Slide";1;"R_Potentiometer_MountingPin";;;
+2;"SW1, SW2, SW3";"Kailh Choc Low-Profile Switches";3;"SW_Push";;;
+3;"SW4";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch_MP";;;
+4;"U1";"Waveshare ESP32-S3-Zero";1;"Waveshare ESP32-S3-ZERO";;;
